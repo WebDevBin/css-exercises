@@ -18,6 +18,8 @@ body {
 
 .content {
   background: #e3f4ff;
+  padding: 18px 10px;
+  margin-bottom: 12px;
 }
 
 .button-container {
