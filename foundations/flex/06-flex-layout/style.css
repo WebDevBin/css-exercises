@@ -30,7 +30,6 @@ input {
 
 ul {
   list-style-type: none;
-  /* flex: 0; */
   display: flex;
   gap: 16px;
   margin: 0;
