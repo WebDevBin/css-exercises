@@ -26,6 +26,7 @@ body {
 }
 
 .card {
+  width: 300px;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
@@ -34,4 +35,9 @@ body {
 .central {
   flex: 1;
   display: flex;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
 }
